@@ -1,5 +1,5 @@
 FROM ubuntu:latest
-LABEL maintainer="Carlos Castaño <calbertts@gmail.com>"
+LABEL maintainer="MulverineX @ RefractureMedia <mulverin3@gmail.com>"
 
 ENV QUICKJS_VERSION="2020-07-05"
 ENV QUICKJS_TAR="https://bellard.org/quickjs/quickjs-${QUICKJS_VERSION}.tar.xz"

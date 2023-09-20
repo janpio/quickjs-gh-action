@@ -1,12 +1,11 @@
-# quickjs-ubuntu
-Docker Ubuntu Image with Quickjs (qjs, qjsc) compiled
+# QuickJS GH Action
+QuickJS (qjs) Test Runner
 
-## Ejemplo de uso
+## Example
 
 ```
 - name: Compile with QuickJS for Ubuntu
-  uses: quickjs-actions/quickjs-ubuntu/@v0.0.8
+  uses: refracturemedia/quickjs-gh-action/@v0.1.0
   with:
-    mainFile: hello
+    mainFile: dist/bundle.js
 ```
-
