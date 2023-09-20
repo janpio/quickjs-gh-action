@@ -1,5 +1,5 @@
-name: 'QuickJS for Ubuntu'
-description: 'Ubuntu with QuickJS (qjs, qjsc)'
+name: 'QuickJS Test Runner'
+description: 'QuickJS (qjs) Test Runner'
 inputs:
   mainFile:
     description: 'Main script to run/compile'
