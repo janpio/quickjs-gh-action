@@ -1,4 +1,4 @@
 #!/bin/sh -l
 
 cd /github/workspace
-qjs $1
+qjs --unhandled-rejection $1
